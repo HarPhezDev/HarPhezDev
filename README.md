@@ -46,6 +46,7 @@ If you're aiming to impress recruiters, I can also Help me rewrite it to sound l
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 ### 🛠 Tools & Platforms
