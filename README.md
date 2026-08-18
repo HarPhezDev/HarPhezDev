@@ -28,7 +28,7 @@ If you're aiming to impress recruiters, I can also Help me rewrite it to sound l
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
+### 🚀 Frontend Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
