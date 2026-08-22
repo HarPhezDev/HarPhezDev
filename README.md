@@ -2,14 +2,14 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=false&vCenter=true&width=900&lines=%24+whoami;OLUNDEGUN+ABDULHAFEEZ+OLOLADE;%24+role;Full-Stack+Developer;%24+specialization;React+%7C+TypeScript+%7C+Node.js;%24+education;B.Sc.+Electronics+%26+Computer+Engineering;%24+mission;Building+Scalable+Digital+Solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=false&vCenter=true&width=900&lines=%24+whoami;OLUNDEGUN+ABDULHAFEEZ+OLOLADE;%24+role;Software+Engineer;%24+specialization;React+%7C+TypeScript+%7C+Node.js;%24+education;B.Sc.+Electronics+%26+Computer+Engineering;%24+mission;Building+Scalable+Digital+Solutions..." alt="Typing SVG" />
 </p>
 
 ```console
 > Initializing developer profile...
 
 👨‍💻 Name          : OLUNDEGUN ABDULHAFEEZ OLOLADE
-💼 Role          : Full-Stack Developer
+💼 Role          : Software Engineer
 🎓 Education     : B.Sc. Electronics & Computer Engineering
 ⚡ Specialization: React • TypeScript • Node.js • Python • Express • Supabase
 🚀 Focus         : Building scalable, user-centric web applications
@@ -20,7 +20,7 @@ Status: Online 🟢
 ```
 ## 👨‍💻 About Me
 
-I'm a 21-year-old self-taught Full-Stack Developer from Lagos State, Nigeria, with over four years of hands-on experience building modern, scalable, and user-focused web applications. I enjoy transforming ideas into impactful digital solutions through clean code, intuitive user experiences, and efficient backend systems.
+I'm a 21-year-old self-taught Software Engineer from Lagos State, Nigeria, with over four years of hands-on experience building modern, scalable, and user-focused web applications. I enjoy transforming ideas into impactful digital solutions through clean code, intuitive user experiences, and efficient backend systems.
 
 I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while continuously expanding my expertise in full-stack development, cloud technologies, and artificial intelligence. I'm passionate about solving real-world problems, contributing to open-source projects, and collaborating on innovative products that create meaningful impact.
 
