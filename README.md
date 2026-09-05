@@ -47,7 +47,7 @@ I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while conti
   <img src="https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools and Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
