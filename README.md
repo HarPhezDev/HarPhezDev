@@ -59,7 +59,7 @@ I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while conti
 </p>
 
 
-## 📫 Connect with Me
+## 📫 Connect with Me:
 
 🌐 **Portfolio:** https://loladetechportfolio.netlify.app/
 💼 **LinkedIn:** https://www.linkedin.com/in/olundegun-abdulhafeez-2a4969220/
