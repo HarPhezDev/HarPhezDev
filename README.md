@@ -20,7 +20,7 @@ Status: Online 🟢
 ```
 ## 👨‍💻 About Me
 
-I'm a 21-year-old self-taught Software Engineer from Lagos State, Nigeria, with over four years of hands-on experience building modern, scalable, and user-focused web applications. I enjoy transforming ideas into impactful digital solutions through clean code, intuitive user experiences, and efficient backend systems.
+I'm a 21-year-old self-taught Software Engineer from Lagos State, Nigeria, with over 4 years of hands-on experience building modern, scalable, and user-focused web applications. I enjoy transforming ideas into impactful digital solutions through clean code, intuitive user experiences, and efficient backend systems.
 
 I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while continuously expanding my expertise in full-stack development, cloud technologies, and artificial intelligence. I'm passionate about solving real-world problems, contributing to open-source projects, and collaborating on innovative products that create meaningful impact.
 
