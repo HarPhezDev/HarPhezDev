@@ -1,4 +1,4 @@
-## Hey, there. I'm OLUNDEGUN ABDULHAFEEZ OLOLADE ☺️
+## Hey, there. I'm OLUNDEGUN ABDULHAFEEZ OLOLADE 
 
 
 <p align="left">
