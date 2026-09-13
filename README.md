@@ -26,7 +26,7 @@ I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while conti
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend Stacks
+### 🚀 Frontend Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
