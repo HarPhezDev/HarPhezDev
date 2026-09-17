@@ -1,4 +1,4 @@
-## Hey, there. I'm OLUNDEGUN ABDULHAFEEZ OLOLADE 😊
+## Hey, there. I'm OLUNDEGUN ABDULHAFEEZ OLOLADE 
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=false&vCenter=true&width=900&lines=%24+whoami;OLUNDEGUN+ABDULHAFEEZ+OLOLADE;%24+role;Software+Engineer;%24+specialization;React+%7C+TypeScript+%7C+Node.js;%24+education;B.Sc.+Electronics+%26+Computer+Engineering;%24+mission;Building+Scalable+Digital+Solutions..." alt="Typing SVG" />
