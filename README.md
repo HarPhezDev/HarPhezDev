@@ -15,7 +15,7 @@
 🌍 Open To       : Open Source • Collaborations • Internships • Freelance
 📫 Contact       : Let's build innovative solutions together
 
-Status: Online 🟢
+Status: Online 🟢.
 ```
 ## 👨‍💻 About Me
 
