@@ -5,7 +5,7 @@
 </p>
 
 ```console
-> Initializing developer profile...
+> Initializing developer profile
 
 👨‍💻 Name          : OLUNDEGUN ABDULHAFEEZ OLOLADE
 💼 Role          : Software Engineer.
