@@ -7,7 +7,7 @@
 ```console
 > Initializing developer profile...
 
-👨‍💻 Name          : OLUNDEGUN ABDULHAFEEZ OLOLADE
+👨‍💻 Name          : OLUNDEGUN ABDULHAFEEZ OLOLADE.
 💼 Role          : Software Engineer.
 🎓 Education     : B.Sc. Electronics & Computer Engineering
 ⚡ Specialization: React • TypeScript • Node.js • Python • Express • Supabase
