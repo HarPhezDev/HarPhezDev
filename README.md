@@ -63,5 +63,5 @@ I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while conti
 🌐 **Portfolio:** https://loladetechportfolio.netlify.app/
 💼 **LinkedIn:** https://www.linkedin.com/in/olundegun-abdulhafeez-2a4969220/
 📧 **Email:** [olundegunhafeez@gmail.com](mailto:olundegunhafeez@gmail.com)
-📱 **Phone:** +234 808 593 9242
+📱 **Phone:** +234 808 593 9242.
 
