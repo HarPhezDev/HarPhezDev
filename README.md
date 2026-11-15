@@ -23,7 +23,7 @@ I'm a 21-year-old self-taught Full Stack Developer from Lagos State, Nigeria, wi
 
 I'm currently pursuing a B.Sc. in Electronics & Computer Engineering while continuously expanding my expertise in full-stack development, cloud technologies, and artificial intelligence. I'm passionate about solving real-world problems, contributing to open-source projects, and collaborating on innovative products that create meaningful impact.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack.
 
 ### 🚀 Frontend Stack
 
